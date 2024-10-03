@@ -1,1 +1,1 @@
-testTEST = 20;
+test = 20;
